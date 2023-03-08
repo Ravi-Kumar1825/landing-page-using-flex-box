@@ -1,6 +1,5 @@
 # landing-page-using-flex-box
 
-http://127.0.0.1:5555/index.html
 
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
